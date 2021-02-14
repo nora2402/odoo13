@@ -22,7 +22,7 @@
                                 <field name="session_ids">
                                     <tree string="registered sessions">
                                         <field name="name"/>
-                                        <field name="responsible_id">
+                                        <field name="responsible_id"/>
                                     </tree>   
                                 </field>     
                             </page>
